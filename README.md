@@ -1,8 +1,5 @@
 # Geolokacije vatrogasaca grada Zagreba
 
-Otvorena dozvola (OD)
-<http://data.gov.hr/otvorena-dozvola>
-
 Autor: Ivan Mitar  
 Verzija skupa podataka: 1.0  
 Jezik: hrvatski  
@@ -28,3 +25,7 @@ Format: CSV, JSON
 \
 Zadnja izmjena 6. veljače 2024, 14:46 (UTC+01:00)  
 Kreirano 9. prosinca 2022, 14:55 (UTC+01:00)
+
+Licenca podataka:
+Otvorena dozvola (OD)
+<http://data.gov.hr/otvorena-dozvola>
