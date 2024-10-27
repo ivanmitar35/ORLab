@@ -9,7 +9,7 @@ Format: CSV, JSON
 
 | Naziv     |                   Opis                   | Tip     |
 | --------- | :--------------------------------------: | ------- |
-| OBJECTID  |          identifikacijski broj           | numeric |
+| grad_cetv | gradska četvrt u kojoj se postaja nalazi | text    |
 | X         |               x koordinata               | numeric |
 | Y         |               y koordinata               | numeric |
 | Naziv     |         naziv vatrogasne postaje         | text    |
@@ -20,7 +20,7 @@ Format: CSV, JSON
 | Web       |       adresa web-stranice postaje        | text    |
 | Izvor     |       izvor informacija o postaji        | text    |
 | Izradio   |           tko je unio podatak            | text    |
-| grad_cetv | gradska četvrt u kojoj se postaja nalazi | text    |
+
 
 \
 Zadnja izmjena 6. veljače 2024, 14:46 (UTC+01:00)  
