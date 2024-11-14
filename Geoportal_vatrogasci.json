@@ -1,919 +1,919 @@
 [
-    {
-        "Gradska_cetvrt": "Brezovica",
-        "Vatrogasna_drustva": [
-            {
-                "Naziv": "DVD Brezovica",
-                "Adresa": "Brezovička cesta 100, Brezovica",
-                "Telefon": "01 6538 602",
-                "Fax": "01 653 8602",
-                "Email": "brezovica@vzgz.hr",
-                "Web": "http://www.vzgz.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 15.907586519000063,
-                "y": 45.72433439900004
-            },
-            {
-                "Naziv": "DVD Dragonožec",
-                "Adresa": "Donjodragonoška cesta 30, Donji Dragonožec",
-                "Telefon": "01 6215 276",
-                "Fax": null,
-                "Email": "dragonozec@vzgz.hr",
-                "Web": "https://dvd-dragonozec.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 15.94468266900003,
-                "y": 45.66425075800004
-            },
-            {
-                "Naziv": "DVD Horvati",
-                "Adresa": "Horvaćanski trg 2, Horvati",
-                "Telefon": "01 6539 191",
-                "Fax": null,
-                "Email": "horvati@vzgz.hr",
-                "Web": "http://www.vzgz.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 15.818283226000062,
-                "y": 45.71264692700004
-            },
-            {
-                "Naziv": "DVD Kupinečki Kraljevec",
-                "Adresa": "Matički 27, Kupinečki Kraljevec",
-                "Telefon": "01 6587 778",
-                "Fax": null,
-                "Email": "kupinecki-kraljevec@vzgz.hr",
-                "Web": "http://www.vzgz.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 15.836234317000049,
-                "y": 45.688187103000075
-            },
-            {
-                "Naziv": "DVD Lipnica",
-                "Adresa": "Lipnička cesta 36, Lipnica",
-                "Telefon": "01 6250 338",
-                "Fax": null,
-                "Email": "lipnica@vzgz.hr",
-                "Web": "http://www.vzgz.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 15.921805455000026,
-                "y": 45.630673096000066
-            },
-            {
-                "Naziv": "DVD Odranski Obrež",
-                "Adresa": "Obreška cesta 119, Odranski Obrež",
-                "Telefon": "01 6537 631",
-                "Fax": null,
-                "Email": "odranski-obrez@vzgz.hr",
-                "Web": "http://www.vzgz.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 15.942668543000025,
-                "y": 45.715953193000075
-            },
-            {
-                "Naziv": "DVD Trupci",
-                "Adresa": "Trpučanska cesta 28, Donji Trpuci",
-                "Telefon": "01 6213 663",
-                "Fax": null,
-                "Email": "trpuci@vzgz.hr",
-                "Web": "http://www.vzgz.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 15.928984773000025,
-                "y": 45.66733209700004
-            }
-        ]
-    },
-    {
-        "Gradska_cetvrt": "Črnomerec",
-        "Vatrogasna_drustva": [
-            {
-                "Naziv": "DVD Bijenik",
-                "Adresa": "Bijenik 162",
-                "Telefon": "01 3738 452",
-                "Fax": null,
-                "Email": "bijenik@vzgz.hr",
-                "Web": "http://www.vzgz.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 15.938840050000067,
-                "y": 45.84693535800005
-            },
-            {
-                "Naziv": "DVD Črnomerec",
-                "Adresa": "Ilica 259",
-                "Telefon": "01 3750 014",
-                "Fax": null,
-                "Email": "crnomerec@vzgz.hr",
-                "Web": "http://dvd-crnomerec.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 15.931685554000069,
-                "y": 45.814245001000074
-            },
-            {
-                "Naziv": "DVD Kustošija",
-                "Adresa": "Ilica 259",
-                "Telefon": "01 3750 006",
-                "Fax": null,
-                "Email": "kustosija@vzgz.hr",
-                "Web": "http://www.vzgz.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 15.931685554000069,
-                "y": 45.814245001000074
-            }
-        ]
-    },
-    {
-        "Gradska_cetvrt": "Donja Dubrava",
-        "Vatrogasna_drustva": [
-            {
-                "Naziv": "DVD Dubrava",
-                "Adresa": "Vrpoljska ulica 10",
-                "Telefon": "01 2995 095",
-                "Fax": null,
-                "Email": "dubrava@vzgz.hr",
-                "Web": "http://www.vzgz.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 16.05306031400005,
-                "y": 45.828287973000045
-            }
-        ]
-    },
-    {
-        "Gradska_cetvrt": "Donji Grad",
-        "Vatrogasna_drustva": [
-            {
-                "Naziv": "Vatrogasna postaja Centar",
-                "Adresa": "Savska cesta 1/3",
-                "Telefon": "01 4896 111",
-                "Fax": "01 489 6176",
-                "Email": "postaja.centar@vatrogasci-zagreb.hr",
-                "Web": "https://vatrogasci.zagreb.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Javna vatrogasna postrojba Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 15.968558470000062,
-                "y": 45.806613938000055
-            }
-        ]
-    },
-    {
-        "Gradska_cetvrt": "Gornja Dubrava",
-        "Vatrogasna_drustva": [
-            {
-                "Naziv": "DVD Branovec",
-                "Adresa": "Branovečka cesta 94",
-                "Telefon": "01 2985 387",
-                "Fax": null,
-                "Email": "branovec@vzgz.hr",
-                "Web": "http://www.vzgz.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 16.074464255000066,
-                "y": 45.857107092000035
-            },
-            {
-                "Naziv": "DVD Čučerje",
-                "Adresa": "Talani Čučerski 1",
-                "Telefon": "01 2986 539",
-                "Fax": null,
-                "Email": "cucerje@vzgz.hr",
-                "Web": "http://www.vzgz.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 16.058495812000046,
-                "y": 45.89376160200004
-            },
-            {
-                "Naziv": "DVD Dankovec",
-                "Adresa": "Čopci 32",
-                "Telefon": "01 2984 075",
-                "Fax": null,
-                "Email": "dankovec@vzgz.hr",
-                "Web": "http://www.vzgz.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 16.053570120000074,
-                "y": 45.87301432900006
-            },
-            {
-                "Naziv": "DVD Granešina",
-                "Adresa": "Granešina 18",
-                "Telefon": "01 2984 077",
-                "Fax": null,
-                "Email": "granesina@vzgz.hr",
-                "Web": "http://www.vzgz.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 16.054246490000025,
-                "y": 45.848763115000054
-            },
-            {
-                "Naziv": "DVD Granešinski Novaki",
-                "Adresa": "Novačka ulica 200",
-                "Telefon": "01 2912 337",
-                "Fax": null,
-                "Email": "granesinski-novaki@vzgz.hr",
-                "Web": "http://www.vzgz.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 16.03512697000002,
-                "y": 45.85103699900003
-            },
-            {
-                "Naziv": "DVD Miroševac",
-                "Adresa": "Miroševečka cesta 131",
-                "Telefon": "01 2980 339",
-                "Fax": null,
-                "Email": "mirosevac@vzgz.hr",
-                "Web": "http://www.vzgz.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 16.036536210000065,
-                "y": 45.86792300600007
-            },
-            {
-                "Naziv": "Vatrogasna postaja Dubrava",
-                "Adresa": "Klin 19",
-                "Telefon": "01 4896 150",
-                "Fax": null,
-                "Email": "postaja.dubrava@vatrogasci-zagreb.hr",
-                "Web": "https://vatrogasci.zagreb.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Javna vatrogasna postrojba Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 16.063037859000076,
-                "y": 45.83122776400006
-            }
-        ]
-    },
-    {
-        "Gradska_cetvrt": "Gornji Grad - Medveščak",
-        "Vatrogasna_drustva": [
-            {
-                "Naziv": "DVD Zagreb",
-                "Adresa": "Mlinarska cesta 42",
-                "Telefon": "01 4677 970",
-                "Fax": null,
-                "Email": "zagreb@vzgz.hr",
-                "Web": "http://www.vzgz.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 15.977998869000032,
-                "y": 45.828602269000044
-            }
-        ]
-    },
-    {
-        "Gradska_cetvrt": "Maksimir",
-        "Vatrogasna_drustva": [
-            {
-                "Naziv": "DVD Bukovac",
-                "Adresa": "IX. Bukovački ogranak 2",
-                "Telefon": "01 2341 178",
-                "Fax": "01 234 1178",
-                "Email": "bukovac@vzgz.hr",
-                "Web": "http://www.dvd-bukovac.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 16.006965939000054,
-                "y": 45.843432621000034
-            },
-            {
-                "Naziv": "DVD Maksimir",
-                "Adresa": "Maksimirska cesta 51A",
-                "Telefon": "01 2312 016",
-                "Fax": "01 231 2016",
-                "Email": "maksimir@vzgz.hr",
-                "Web": "http://dvd-maksimir.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 16.00308291700003,
-                "y": 45.81675918600007
-            }
-        ]
-    },
-    {
-        "Gradska_cetvrt": "Novi Zagreb - istok",
-        "Vatrogasna_drustva": [
-            {
-                "Naziv": "DVD Buzin",
-                "Adresa": "Buzinska Cesta 20, Buzin",
-                "Telefon": "01 6608 461",
-                "Fax": null,
-                "Email": "buzin@vzgz.hr",
-                "Web": "http://www.vzgz.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 15.994323278000024,
-                "y": 45.751523176000035
-            },
-            {
-                "Naziv": "DVD Hrelić",
-                "Adresa": "Ulica sv. Mateja 91",
-                "Telefon": "01 6602 695",
-                "Fax": "01 660 2695",
-                "Email": "hrelic@vzgz.hr",
-                "Web": "http://www.dvd-hrelic.hr",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 16.001331737000044,
-                "y": 45.76395066400005
-            },
-            {
-                "Naziv": "DVD Jakuševec",
-                "Adresa": "Gata 1",
-                "Telefon": "01 6609 532",
-                "Fax": null,
-                "Email": "jakusevec@vzgz.hr",
-                "Web": "http://www.vzgz.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 16.015803133000077,
-                "y": 45.76080637100006
-            }
-        ]
-    },
-    {
-        "Gradska_cetvrt": "Novi Zagreb - zapad",
-        "Vatrogasna_drustva": [
-            {
-                "Naziv": "DVD Blato",
-                "Adresa": "Karlovačka cesta 195B",
-                "Telefon": "01 6140 886",
-                "Fax": "01 614 0886",
-                "Email": "blato@vzgz.hr",
-                "Web": "http://www.dvdblato-zagreb.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 15.911955129000035,
-                "y": 45.75940541700004
-            },
-            {
-                "Naziv": "DVD Botinec",
-                "Adresa": "Ulica Zlatarova zlata 79",
-                "Telefon": "01 6524 681",
-                "Fax": null,
-                "Email": "botinec@vzgz.hr",
-                "Web": "http://www.dvdbotinec.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 15.937528196000073,
-                "y": 45.75287886500007
-            },
-            {
-                "Naziv": "DVD Hrašće",
-                "Adresa": "Trg Jurja Muliha 8, Hrašće Turopoljsko",
-                "Telefon": "01 6261 033",
-                "Fax": null,
-                "Email": "hrasce@vzgz.hrNULL",
-                "Web": "www.dvd-hrasce.hr",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 16.004083621000063,
-                "y": 45.73070998000003
-            },
-            {
-                "Naziv": "DVD Mala Mlaka",
-                "Adresa": "Malomlačka ulica 91, Mala Mlaka",
-                "Telefon": "01 6233 550",
-                "Fax": null,
-                "Email": "mala-mlaka@vzgz.hr",
-                "Web": "http://www.vzgz.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 15.977197251000064,
-                "y": 45.72881803100006
-            },
-            {
-                "Naziv": "DVD Odra",
-                "Adresa": "Odranska ulica 82A, Odra",
-                "Telefon": "01 6262 600",
-                "Fax": null,
-                "Email": "odra@vzgz.hr",
-                "Web": "http://www.vzgz.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 15.994473913000036,
-                "y": 45.73023604600007
-            },
-            {
-                "Naziv": "DVD Sveta Klara",
-                "Adresa": "Mrkšina ulica 38",
-                "Telefon": "01 6570 374",
-                "Fax": null,
-                "Email": "sveta-klara@vzgz.hr",
-                "Web": "http://dvd-svetaklara.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 15.971149592000074,
-                "y": 45.756798280000055
-            },
-            {
-                "Naziv": "Vatrogasna postaja Novi Zagreb",
-                "Adresa": "Ulica Radoslava Cimermana 84",
-                "Telefon": "01 4896 140",
-                "Fax": null,
-                "Email": "postaja.novi-zagreb@vatrogasci-zagreb.hr",
-                "Web": "https://vatrogasci.zagreb.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Javna vatrogasna postrojba Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 15.964982168000063,
-                "y": 45.77932283500007
-            }
-        ]
-    },
-    {
-        "Gradska_cetvrt": "Peščenica - Žitnjak",
-        "Vatrogasna_drustva": [
-            {
-                "Naziv": "DVD Ivanja Reka",
-                "Adresa": "Ivanjorečka cesta 5, Ivanja Reka",
-                "Telefon": "01 2024 570",
-                "Fax": null,
-                "Email": "ivanja-rijeka@vzgz.hr",
-                "Web": "http://dvdivanjarijeka.hr",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 16.11908162800006,
-                "y": 45.798091053000064
-            },
-            {
-                "Naziv": "DVD Resnik - Zagreb",
-                "Adresa": "I. Resnik 48",
-                "Telefon": "01 2024 444",
-                "Fax": "01 202 4444",
-                "Email": "resnik@vzgz.hr",
-                "Web": "http://www.dvd-resnik-zagreb.hr",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 16.08152182300006,
-                "y": 45.80294930500003
-            },
-            {
-                "Naziv": "Vatrogasna postaja Žitnjak",
-                "Adresa": "Capraška ulica 2",
-                "Telefon": "01 4896 120",
-                "Fax": null,
-                "Email": "postaja.zitnjak @vatrogasci-zagreb.hr",
-                "Web": "https://vatrogasci.zagreb.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Javna vatrogasna postrojba Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 16.015044458000034,
-                "y": 45.795081768000045
-            }
-        ]
-    },
-    {
-        "Gradska_cetvrt": "Podsljeme",
-        "Vatrogasna_drustva": [
-            {
-                "Naziv": "DVD Gračani",
-                "Adresa": "Gračanski Mihaljevac 3",
-                "Telefon": "01 4674 029",
-                "Fax": "01 467 4029",
-                "Email": "gracani@vzgz.hr",
-                "Web": "http://dvdgracani.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 15.973785357000054,
-                "y": 45.85379156600004
-            },
-            {
-                "Naziv": "DVD Šestine",
-                "Adresa": "Šestinski vijenac 2",
-                "Telefon": "01 4674 211",
-                "Fax": null,
-                "Email": "sestine@vzgz.hr",
-                "Web": "http://www.dvd-sestine.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 15.949958069000047,
-                "y": 45.85222214400005
-            },
-            {
-                "Naziv": "DVD Vidovec",
-                "Adresa": "Vidovec 111",
-                "Telefon": "01 2980 902",
-                "Fax": null,
-                "Email": "vidovec@vzgz.hr",
-                "Web": "http://www.vzgz.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 16.035884920000058,
-                "y": 45.90215514400006
-            }
-        ]
-    },
-    {
-        "Gradska_cetvrt": "Podsused - Vrapče",
-        "Vatrogasna_drustva": [
-            {
-                "Naziv": "DVD Vrapče",
-                "Adresa": "Ilica 421/2",
-                "Telefon": "01 3456 577",
-                "Fax": null,
-                "Email": "vrapce@vzgz.hr",
-                "Web": "http://www.vzgz.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 15.905703201000051,
-                "y": 45.81258586200005
-            }
-        ]
-    },
-    {
-        "Gradska_cetvrt": "Sesvete",
-        "Vatrogasna_drustva": [
-            {
-                "Naziv": "DVD Adamovec",
-                "Adresa": "Ulica Dragutina M. Domjanića 56, Adamovec",
-                "Telefon": "None",
-                "Fax": null,
-                "Email": "adamovec@vzgz.hr",
-                "Web": "http://www.vzgz.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 16.16354728400006,
-                "y": 45.904232009000054
-            },
-            {
-                "Naziv": "DVD Belovar",
-                "Adresa": "Varaždinska ulica 36, Belovar",
-                "Telefon": "01 2042 422",
-                "Fax": null,
-                "Email": "belovar@vzgz.hr",
-                "Web": "http://www.vzgz.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 16.175402827000028,
-                "y": 45.88226789600003
-            },
-            {
-                "Naziv": "DVD Blaguša",
-                "Adresa": "Blaguška ulica 63, Blaguša",
-                "Telefon": "01 2004 897",
-                "Fax": null,
-                "Email": "blagusa@vzgz.hr",
-                "Web": "http://www.vzgz.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 16.130081665000034,
-                "y": 45.928958316000035
-            },
-            {
-                "Naziv": "DVD Cerje",
-                "Adresa": "Podolnica 15, Cerje",
-                "Telefon": "01 2009 695",
-                "Fax": null,
-                "Email": "cerje@vzgz.hr",
-                "Web": "http://www.vzgz.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 16.189279631000034,
-                "y": 45.830128615000035
-            },
-            {
-                "Naziv": "DVD Glavničica",
-                "Adresa": "Glavničica 6",
-                "Telefon": "01 2008 528",
-                "Fax": null,
-                "Email": "glavnicica@vzgz.hr",
-                "Web": "http://www.vzgz.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 16.21206277600004,
-                "y": 45.84748729300003
-            },
-            {
-                "Naziv": "DVD Kašina",
-                "Adresa": "Cesta Ivana Mažuranića 18A",
-                "Telefon": "01 2056 126",
-                "Fax": null,
-                "Email": "kasina@vzgz.hr",
-                "Web": "http://www.vzgz.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 16.125594471000056,
-                "y": 45.90578863400003
-            },
-            {
-                "Naziv": "DVD Kašina Gornja",
-                "Adresa": "Cesta Ivana Mažuranića 152, Kašina",
-                "Telefon": "01 2056 154",
-                "Fax": null,
-                "Email": "kasina-gornja@vzgz.hr",
-                "Web": "www.dvdkg.com",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 16.11928449100003,
-                "y": 45.923455182000055
-            },
-            {
-                "Naziv": "DVD Kobiljak",
-                "Adresa": "Kobiljačka ulica 75, Sesvete",
-                "Telefon": "01 2046 156",
-                "Fax": null,
-                "Email": "kobiljak@vzgz.hr",
-                "Web": "http://www.vzgz.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 16.161335273000077,
-                "y": 45.82214164100003
-            },
-            {
-                "Naziv": "DVD Kučilovina",
-                "Adresa": "Kučilovečka cesta 52, Kučilovina",
-                "Telefon": "01 2044 792",
-                "Fax": "01 204 4792",
-                "Email": "kucilovina@vzgz.hr",
-                "Web": "http://www.vzgz.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 16.09172968000007,
-                "y": 45.912614191000046
-            },
-            {
-                "Naziv": "DVD Lužan",
-                "Adresa": "Augusta Šenoe 46, Lužan",
-                "Telefon": "01 2043 310",
-                "Fax": null,
-                "Email": "luzan@vzgz.hr",
-                "Web": "http://www.vzgz.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 16.196052088000044,
-                "y": 45.88574539200005
-            },
-            {
-                "Naziv": "DVD Moravče",
-                "Adresa": "Prigorska ulica 88, Moravče",
-                "Telefon": "01 2043 144",
-                "Fax": "01 204 3144",
-                "Email": "moravce@vzgz.hr",
-                "Web": "www.dvdmoravce.hr",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 16.16770358200006,
-                "y": 45.93603654900005
-            },
-            {
-                "Naziv": "DVD Planina Donja",
-                "Adresa": "Ulica 9. maja 1, Planina Donja",
-                "Telefon": "01 2007 650",
-                "Fax": null,
-                "Email": "planina-donja@vzgz.hr",
-                "Web": "http://www.vzgz.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 16.090881848000038,
-                "y": 45.926563834000035
-            },
-            {
-                "Naziv": "DVD Planina Gornja",
-                "Adresa": "Sesvetska ulica 19, Planina Gornja",
-                "Telefon": "01 2055 481",
-                "Fax": null,
-                "Email": "planina-gornja@vzgz.hr",
-                "Web": "http://www.vzgz.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 16.07931189800007,
-                "y": 45.93725903300003
-            },
-            {
-                "Naziv": "DVD Sesvete",
-                "Adresa": "Varaždinska cesta 42, Sesvete",
-                "Telefon": "01 2000 125",
-                "Fax": "01 200 0125",
-                "Email": "sesvete@vzgz.hr",
-                "Web": "http://www.dvd-sesvete.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 16.116435522000074,
-                "y": 45.83036682100004
-            },
-            {
-                "Naziv": "DVD Sesvetska Selnica",
-                "Adresa": "Selnička ulica 69, Sesvete",
-                "Telefon": "01 2005 010",
-                "Fax": null,
-                "Email": "sesvetska-selnica@vzgz.hr",
-                "Web": "http://www.vzgz.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 16.13401274200004,
-                "y": 45.816624441000044
-            },
-            {
-                "Naziv": "DVD Sesvetski Kraljevec",
-                "Adresa": "Željeznička ulica 13, Sesvete",
-                "Telefon": "01 2046 569",
-                "Fax": null,
-                "Email": "sesvetski-kraljevec@vzgz.hr",
-                "Web": "http://www.vzgz.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 16.17409923500003,
-                "y": 45.81428388100005
-            },
-            {
-                "Naziv": "DVD Šašinovec",
-                "Adresa": "Ulica Ivana Granđe 75, Šašinovec",
-                "Telefon": "01 2056 560",
-                "Fax": null,
-                "Email": "sasinovec@vzgz.hr",
-                "Web": "http://www.vzgz.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 16.16537057200003,
-                "y": 45.850004934000026
-            },
-            {
-                "Naziv": "DVD Vugrovec",
-                "Adresa": "Ulica Augusta Šenoe 49, Vugrovec",
-                "Telefon": "01 2045 136",
-                "Fax": null,
-                "Email": "vugrovec-donji@vzgz.hr",
-                "Web": "http://www.vzgz.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 16.10887428500007,
-                "y": 45.88052397900003
-            }
-        ]
-    },
-    {
-        "Gradska_cetvrt": "Stenjevec",
-        "Vatrogasna_drustva": [
-            {
-                "Naziv": "DVD Zapad (Vrapče Jug)",
-                "Adresa": "Medarska ulica 80",
-                "Telefon": "01 3886 089",
-                "Fax": null,
-                "Email": "zapad@vzgz.hr",
-                "Web": "http://www.vzgz.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 15.910790772000041,
-                "y": 45.807560487000046
-            },
-            {
-                "Naziv": "Vatrogasna postaja Jankomir",
-                "Adresa": "Jankomir 2",
-                "Telefon": "01 4896 130",
-                "Fax": null,
-                "Email": "postaja.jankomir@vatrogasci-zagreb.hr",
-                "Web": "https://vatrogasci.zagreb.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Javna vatrogasna postrojba Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 15.878744781000023,
-                "y": 45.810774421000076
-            }
-        ]
-    },
-    {
-        "Gradska_cetvrt": "Trešnjevka - jug",
-        "Vatrogasna_drustva": [
-            {
-                "Naziv": "DVD Jarun",
-                "Adresa": "Ulica don Petra Šimića 2",
-                "Telefon": "01 3832 356",
-                "Fax": null,
-                "Email": "jarun@vzgz.hr",
-                "Web": "http://www.vzgz.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 15.927941951000037,
-                "y": 45.78694393100005
-            },
-            {
-                "Naziv": "DVD Prečko",
-                "Adresa": "Jarnovićeva ulica 19",
-                "Telefon": "01 3865 010",
-                "Fax": null,
-                "Email": "precko@vzgz.hr",
-                "Web": "www.dvdprecko.hr",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 15.898050732000058,
-                "y": 45.791684909000026
-            },
-            {
-                "Naziv": "Vatrogasna zajednica Grada Zagreba",
-                "Adresa": "Našička ulica 14",
-                "Telefon": "01 4628 720",
-                "Fax": "01 467 7969",
-                "Email": "vzgz@vzgz.hr",
-                "Web": "http://www.vzgz.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Javna vatrogasna postrojba Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 15.93214598700007,
-                "y": 45.79108184200004
-            }
-        ]
-    },
-    {
-        "Gradska_cetvrt": "Trešnjevka - sjever",
-        "Vatrogasna_drustva": [
-            {
-                "Naziv": "DVD Trešnjevka",
-                "Adresa": "Selska cesta 116",
-                "Telefon": "01 3634 052",
-                "Fax": null,
-                "Email": "tresnjevka@vzgz.hr",
-                "Web": "http://www.dvdtresnjevka.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 15.942999457000042,
-                "y": 45.797913537000056
-            }
-        ]
-    },
-    {
-        "Gradska_cetvrt": "Trnje",
-        "Vatrogasna_drustva": [
-            {
-                "Naziv": "DVD Trnje",
-                "Adresa": "Ulica Pere Budmanija 9",
-                "Telefon": "01 6184 524",
-                "Fax": null,
-                "Email": "trnje@vzgz.hr",
-                "Web": "https://dvdtrnje.hr/",
-                "Nadlezan": "Ministarstvo unutarnjih poslova",
-                "Izvor": "Vatrogasna zajednica Grada Zagreba",
-                "Izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
-                "x": 16.000656899000035,
-                "y": 45.80222762100004
-            }
-        ]
-    }
+  {
+    "grad_cetv": "Brezovica",
+    "vatr_postaja": [
+      {
+        "naziv": "DVD Brezovica",
+        "adresa": "Brezovička cesta 100, Brezovica",
+        "telefon": "01 6538 602",
+        "fax": "01 653 8602",
+        "email": "brezovica@vzgz.hr",
+        "web": "http://www.vzgz.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 15.907586519000063,
+        "y": 45.72433439900004
+      },
+      {
+        "naziv": "DVD Dragonožec",
+        "adresa": "Donjodragonoška cesta 30, Donji Dragonožec",
+        "telefon": "01 6215 276",
+        "fax": null,
+        "email": "dragonozec@vzgz.hr",
+        "web": "https://dvd-dragonozec.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 15.94468266900003,
+        "y": 45.66425075800004
+      },
+      {
+        "naziv": "DVD Horvati",
+        "adresa": "Horvaćanski trg 2, Horvati",
+        "telefon": "01 6539 191",
+        "fax": null,
+        "email": "horvati@vzgz.hr",
+        "web": "http://www.vzgz.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 15.818283226000062,
+        "y": 45.71264692700004
+      },
+      {
+        "naziv": "DVD Kupinečki Kraljevec",
+        "adresa": "Matički 27, Kupinečki Kraljevec",
+        "telefon": "01 6587 778",
+        "fax": null,
+        "email": "kupinecki-kraljevec@vzgz.hr",
+        "web": "http://www.vzgz.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 15.836234317000049,
+        "y": 45.688187103000075
+      },
+      {
+        "naziv": "DVD Lipnica",
+        "adresa": "Lipnička cesta 36, Lipnica",
+        "telefon": "01 6250 338",
+        "fax": null,
+        "email": "lipnica@vzgz.hr",
+        "web": "http://www.vzgz.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 15.921805455000026,
+        "y": 45.630673096000066
+      },
+      {
+        "naziv": "DVD Odranski Obrež",
+        "adresa": "Obreška cesta 119, Odranski Obrež",
+        "telefon": "01 6537 631",
+        "fax": null,
+        "email": "odranski-obrez@vzgz.hr",
+        "web": "http://www.vzgz.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 15.942668543000025,
+        "y": 45.715953193000075
+      },
+      {
+        "naziv": "DVD Trupci",
+        "adresa": "Trpučanska cesta 28, Donji Trpuci",
+        "telefon": "01 6213 663",
+        "fax": null,
+        "email": "trpuci@vzgz.hr",
+        "web": "http://www.vzgz.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 15.928984773000025,
+        "y": 45.66733209700004
+      }
+    ]
+  },
+  {
+    "grad_cetv": "Črnomerec",
+    "vatr_postaja": [
+      {
+        "naziv": "DVD Bijenik",
+        "adresa": "Bijenik 162",
+        "telefon": "01 3738 452",
+        "fax": null,
+        "email": "bijenik@vzgz.hr",
+        "web": "http://www.vzgz.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 15.938840050000067,
+        "y": 45.84693535800005
+      },
+      {
+        "naziv": "DVD Črnomerec",
+        "adresa": "Ilica 259",
+        "telefon": "01 3750 014",
+        "fax": null,
+        "email": "crnomerec@vzgz.hr",
+        "web": "http://dvd-crnomerec.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 15.931685554000069,
+        "y": 45.814245001000074
+      },
+      {
+        "naziv": "DVD Kustošija",
+        "adresa": "Ilica 259",
+        "telefon": "01 3750 006",
+        "fax": null,
+        "email": "kustosija@vzgz.hr",
+        "web": "http://www.vzgz.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 15.931685554000069,
+        "y": 45.814245001000074
+      }
+    ]
+  },
+  {
+    "grad_cetv": "Donja Dubrava",
+    "vatr_postaja": [
+      {
+        "naziv": "DVD Dubrava",
+        "adresa": "Vrpoljska ulica 10",
+        "telefon": "01 2995 095",
+        "fax": null,
+        "email": "dubrava@vzgz.hr",
+        "web": "http://www.vzgz.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 16.05306031400005,
+        "y": 45.828287973000045
+      }
+    ]
+  },
+  {
+    "grad_cetv": "Donji Grad",
+    "vatr_postaja": [
+      {
+        "naziv": "Vatrogasna postaja Centar",
+        "adresa": "Savska cesta 1/3",
+        "telefon": "01 4896 111",
+        "fax": "01 489 6176",
+        "email": "postaja.centar@vatrogasci-zagreb.hr",
+        "web": "https://vatrogasci.zagreb.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Javna vatrogasna postrojba Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 15.968558470000062,
+        "y": 45.806613938000055
+      }
+    ]
+  },
+  {
+    "grad_cetv": "Gornja Dubrava",
+    "vatr_postaja": [
+      {
+        "naziv": "DVD Branovec",
+        "adresa": "Branovečka cesta 94",
+        "telefon": "01 2985 387",
+        "fax": null,
+        "email": "branovec@vzgz.hr",
+        "web": "http://www.vzgz.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 16.074464255000066,
+        "y": 45.857107092000035
+      },
+      {
+        "naziv": "DVD Čučerje",
+        "adresa": "Talani Čučerski 1",
+        "telefon": "01 2986 539",
+        "fax": null,
+        "email": "cucerje@vzgz.hr",
+        "web": "http://www.vzgz.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 16.058495812000046,
+        "y": 45.89376160200004
+      },
+      {
+        "naziv": "DVD Dankovec",
+        "adresa": "Čopci 32",
+        "telefon": "01 2984 075",
+        "fax": null,
+        "email": "dankovec@vzgz.hr",
+        "web": "http://www.vzgz.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 16.053570120000074,
+        "y": 45.87301432900006
+      },
+      {
+        "naziv": "DVD Granešina",
+        "adresa": "Granešina 18",
+        "telefon": "01 2984 077",
+        "fax": null,
+        "email": "granesina@vzgz.hr",
+        "web": "http://www.vzgz.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 16.054246490000025,
+        "y": 45.848763115000054
+      },
+      {
+        "naziv": "DVD Granešinski Novaki",
+        "adresa": "Novačka ulica 200",
+        "telefon": "01 2912 337",
+        "fax": null,
+        "email": "granesinski-novaki@vzgz.hr",
+        "web": "http://www.vzgz.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 16.03512697000002,
+        "y": 45.85103699900003
+      },
+      {
+        "naziv": "DVD Miroševac",
+        "adresa": "Miroševečka cesta 131",
+        "telefon": "01 2980 339",
+        "fax": null,
+        "email": "mirosevac@vzgz.hr",
+        "web": "http://www.vzgz.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 16.036536210000065,
+        "y": 45.86792300600007
+      },
+      {
+        "naziv": "Vatrogasna postaja Dubrava",
+        "adresa": "Klin 19",
+        "telefon": "01 4896 150",
+        "fax": null,
+        "email": "postaja.dubrava@vatrogasci-zagreb.hr",
+        "web": "https://vatrogasci.zagreb.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Javna vatrogasna postrojba Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 16.063037859000076,
+        "y": 45.83122776400006
+      }
+    ]
+  },
+  {
+    "grad_cetv": "Gornji Grad - Medveščak",
+    "vatr_postaja": [
+      {
+        "naziv": "DVD Zagreb",
+        "adresa": "Mlinarska cesta 42",
+        "telefon": "01 4677 970",
+        "fax": null,
+        "email": "zagreb@vzgz.hr",
+        "web": "http://www.vzgz.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 15.977998869000032,
+        "y": 45.828602269000044
+      }
+    ]
+  },
+  {
+    "grad_cetv": "Maksimir",
+    "vatr_postaja": [
+      {
+        "naziv": "DVD Bukovac",
+        "adresa": "IX. Bukovački ogranak 2",
+        "telefon": "01 2341 178",
+        "fax": "01 234 1178",
+        "email": "bukovac@vzgz.hr",
+        "web": "http://www.dvd-bukovac.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 16.006965939000054,
+        "y": 45.843432621000034
+      },
+      {
+        "naziv": "DVD Maksimir",
+        "adresa": "Maksimirska cesta 51A",
+        "telefon": "01 2312 016",
+        "fax": "01 231 2016",
+        "email": "maksimir@vzgz.hr",
+        "web": "http://dvd-maksimir.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 16.00308291700003,
+        "y": 45.81675918600007
+      }
+    ]
+  },
+  {
+    "grad_cetv": "Novi Zagreb - istok",
+    "vatr_postaja": [
+      {
+        "naziv": "DVD Buzin",
+        "adresa": "Buzinska Cesta 20, Buzin",
+        "telefon": "01 6608 461",
+        "fax": null,
+        "email": "buzin@vzgz.hr",
+        "web": "http://www.vzgz.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 15.994323278000024,
+        "y": 45.751523176000035
+      },
+      {
+        "naziv": "DVD Hrelić",
+        "adresa": "Ulica sv. Mateja 91",
+        "telefon": "01 6602 695",
+        "fax": "01 660 2695",
+        "email": "hrelic@vzgz.hr",
+        "web": "http://www.dvd-hrelic.hr",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 16.001331737000044,
+        "y": 45.76395066400005
+      },
+      {
+        "naziv": "DVD Jakuševec",
+        "adresa": "Gata 1",
+        "telefon": "01 6609 532",
+        "fax": null,
+        "email": "jakusevec@vzgz.hr",
+        "web": "http://www.vzgz.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 16.015803133000077,
+        "y": 45.76080637100006
+      }
+    ]
+  },
+  {
+    "grad_cetv": "Novi Zagreb - zapad",
+    "vatr_postaja": [
+      {
+        "naziv": "DVD Blato",
+        "adresa": "Karlovačka cesta 195B",
+        "telefon": "01 6140 886",
+        "fax": "01 614 0886",
+        "email": "blato@vzgz.hr",
+        "web": "http://www.dvdblato-zagreb.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 15.911955129000035,
+        "y": 45.75940541700004
+      },
+      {
+        "naziv": "DVD Botinec",
+        "adresa": "Ulica Zlatarova zlata 79",
+        "telefon": "01 6524 681",
+        "fax": null,
+        "email": "botinec@vzgz.hr",
+        "web": "http://www.dvdbotinec.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 15.937528196000073,
+        "y": 45.75287886500007
+      },
+      {
+        "naziv": "DVD Hrašće",
+        "adresa": "Trg Jurja Muliha 8, Hrašće Turopoljsko",
+        "telefon": "01 6261 033",
+        "fax": null,
+        "email": "hrasce@vzgz.hrNULL",
+        "web": "www.dvd-hrasce.hr",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 16.004083621000063,
+        "y": 45.73070998000003
+      },
+      {
+        "naziv": "DVD Mala Mlaka",
+        "adresa": "Malomlačka ulica 91, Mala Mlaka",
+        "telefon": "01 6233 550",
+        "fax": null,
+        "email": "mala-mlaka@vzgz.hr",
+        "web": "http://www.vzgz.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 15.977197251000064,
+        "y": 45.72881803100006
+      },
+      {
+        "naziv": "DVD Odra",
+        "adresa": "Odranska ulica 82A, Odra",
+        "telefon": "01 6262 600",
+        "fax": null,
+        "email": "odra@vzgz.hr",
+        "web": "http://www.vzgz.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 15.994473913000036,
+        "y": 45.73023604600007
+      },
+      {
+        "naziv": "DVD Sveta Klara",
+        "adresa": "Mrkšina ulica 38",
+        "telefon": "01 6570 374",
+        "fax": null,
+        "email": "sveta-klara@vzgz.hr",
+        "web": "http://dvd-svetaklara.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 15.971149592000074,
+        "y": 45.756798280000055
+      },
+      {
+        "naziv": "Vatrogasna postaja Novi Zagreb",
+        "adresa": "Ulica Radoslava Cimermana 84",
+        "telefon": "01 4896 140",
+        "fax": null,
+        "email": "postaja.novi-zagreb@vatrogasci-zagreb.hr",
+        "web": "https://vatrogasci.zagreb.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Javna vatrogasna postrojba Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 15.964982168000063,
+        "y": 45.77932283500007
+      }
+    ]
+  },
+  {
+    "grad_cetv": "Peščenica - Žitnjak",
+    "vatr_postaja": [
+      {
+        "naziv": "DVD Ivanja Reka",
+        "adresa": "Ivanjorečka cesta 5, Ivanja Reka",
+        "telefon": "01 2024 570",
+        "fax": null,
+        "email": "ivanja-rijeka@vzgz.hr",
+        "web": "http://dvdivanjarijeka.hr",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 16.11908162800006,
+        "y": 45.798091053000064
+      },
+      {
+        "naziv": "DVD Resnik - Zagreb",
+        "adresa": "I. Resnik 48",
+        "telefon": "01 2024 444",
+        "fax": "01 202 4444",
+        "email": "resnik@vzgz.hr",
+        "web": "http://www.dvd-resnik-zagreb.hr",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 16.08152182300006,
+        "y": 45.80294930500003
+      },
+      {
+        "naziv": "Vatrogasna postaja Žitnjak",
+        "adresa": "Capraška ulica 2",
+        "telefon": "01 4896 120",
+        "fax": null,
+        "email": "postaja.zitnjak @vatrogasci-zagreb.hr",
+        "web": "https://vatrogasci.zagreb.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Javna vatrogasna postrojba Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 16.015044458000034,
+        "y": 45.795081768000045
+      }
+    ]
+  },
+  {
+    "grad_cetv": "Podsljeme",
+    "vatr_postaja": [
+      {
+        "naziv": "DVD Gračani",
+        "adresa": "Gračanski Mihaljevac 3",
+        "telefon": "01 4674 029",
+        "fax": "01 467 4029",
+        "email": "gracani@vzgz.hr",
+        "web": "http://dvdgracani.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 15.973785357000054,
+        "y": 45.85379156600004
+      },
+      {
+        "naziv": "DVD Šestine",
+        "adresa": "Šestinski vijenac 2",
+        "telefon": "01 4674 211",
+        "fax": null,
+        "email": "sestine@vzgz.hr",
+        "web": "http://www.dvd-sestine.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 15.949958069000047,
+        "y": 45.85222214400005
+      },
+      {
+        "naziv": "DVD Vidovec",
+        "adresa": "Vidovec 111",
+        "telefon": "01 2980 902",
+        "fax": null,
+        "email": "vidovec@vzgz.hr",
+        "web": "http://www.vzgz.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 16.035884920000058,
+        "y": 45.90215514400006
+      }
+    ]
+  },
+  {
+    "grad_cetv": "Podsused - Vrapče",
+    "vatr_postaja": [
+      {
+        "naziv": "DVD Vrapče",
+        "adresa": "Ilica 421/2",
+        "telefon": "01 3456 577",
+        "fax": null,
+        "email": "vrapce@vzgz.hr",
+        "web": "http://www.vzgz.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 15.905703201000051,
+        "y": 45.81258586200005
+      }
+    ]
+  },
+  {
+    "grad_cetv": "Sesvete",
+    "vatr_postaja": [
+      {
+        "naziv": "DVD Adamovec",
+        "adresa": "Ulica Dragutina M. Domjanića 56, Adamovec",
+        "telefon": null,
+        "fax": null,
+        "email": "adamovec@vzgz.hr",
+        "web": "http://www.vzgz.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 16.16354728400006,
+        "y": 45.904232009000054
+      },
+      {
+        "naziv": "DVD Belovar",
+        "adresa": "Varaždinska ulica 36, Belovar",
+        "telefon": "01 2042 422",
+        "fax": null,
+        "email": "belovar@vzgz.hr",
+        "web": "http://www.vzgz.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 16.175402827000028,
+        "y": 45.88226789600003
+      },
+      {
+        "naziv": "DVD Blaguša",
+        "adresa": "Blaguška ulica 63, Blaguša",
+        "telefon": "01 2004 897",
+        "fax": null,
+        "email": "blagusa@vzgz.hr",
+        "web": "http://www.vzgz.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 16.130081665000034,
+        "y": 45.928958316000035
+      },
+      {
+        "naziv": "DVD Cerje",
+        "adresa": "Podolnica 15, Cerje",
+        "telefon": "01 2009 695",
+        "fax": null,
+        "email": "cerje@vzgz.hr",
+        "web": "http://www.vzgz.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 16.189279631000034,
+        "y": 45.830128615000035
+      },
+      {
+        "naziv": "DVD Glavničica",
+        "adresa": "Glavničica 6",
+        "telefon": "01 2008 528",
+        "fax": null,
+        "email": "glavnicica@vzgz.hr",
+        "web": "http://www.vzgz.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 16.21206277600004,
+        "y": 45.84748729300003
+      },
+      {
+        "naziv": "DVD Kašina",
+        "adresa": "Cesta Ivana Mažuranića 18A",
+        "telefon": "01 2056 126",
+        "fax": null,
+        "email": "kasina@vzgz.hr",
+        "web": "http://www.vzgz.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 16.125594471000056,
+        "y": 45.90578863400003
+      },
+      {
+        "naziv": "DVD Kašina Gornja",
+        "adresa": "Cesta Ivana Mažuranića 152, Kašina",
+        "telefon": "01 2056 154",
+        "fax": null,
+        "email": "kasina-gornja@vzgz.hr",
+        "web": "www.dvdkg.com",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 16.11928449100003,
+        "y": 45.923455182000055
+      },
+      {
+        "naziv": "DVD Kobiljak",
+        "adresa": "Kobiljačka ulica 75, Sesvete",
+        "telefon": "01 2046 156",
+        "fax": null,
+        "email": "kobiljak@vzgz.hr",
+        "web": "http://www.vzgz.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 16.161335273000077,
+        "y": 45.82214164100003
+      },
+      {
+        "naziv": "DVD Kučilovina",
+        "adresa": "Kučilovečka cesta 52, Kučilovina",
+        "telefon": "01 2044 792",
+        "fax": "01 204 4792",
+        "email": "kucilovina@vzgz.hr",
+        "web": "http://www.vzgz.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 16.09172968000007,
+        "y": 45.912614191000046
+      },
+      {
+        "naziv": "DVD Lužan",
+        "adresa": "Augusta Šenoe 46, Lužan",
+        "telefon": "01 2043 310",
+        "fax": null,
+        "email": "luzan@vzgz.hr",
+        "web": "http://www.vzgz.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 16.196052088000044,
+        "y": 45.88574539200005
+      },
+      {
+        "naziv": "DVD Moravče",
+        "adresa": "Prigorska ulica 88, Moravče",
+        "telefon": "01 2043 144",
+        "fax": "01 204 3144",
+        "email": "moravce@vzgz.hr",
+        "web": "www.dvdmoravce.hr",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 16.16770358200006,
+        "y": 45.93603654900005
+      },
+      {
+        "naziv": "DVD Planina Donja",
+        "adresa": "Ulica 9. maja 1, Planina Donja",
+        "telefon": "01 2007 650",
+        "fax": null,
+        "email": "planina-donja@vzgz.hr",
+        "web": "http://www.vzgz.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 16.090881848000038,
+        "y": 45.926563834000035
+      },
+      {
+        "naziv": "DVD Planina Gornja",
+        "adresa": "Sesvetska ulica 19, Planina Gornja",
+        "telefon": "01 2055 481",
+        "fax": null,
+        "email": "planina-gornja@vzgz.hr",
+        "web": "http://www.vzgz.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 16.07931189800007,
+        "y": 45.93725903300003
+      },
+      {
+        "naziv": "DVD Sesvete",
+        "adresa": "Varaždinska cesta 42, Sesvete",
+        "telefon": "01 2000 125",
+        "fax": "01 200 0125",
+        "email": "sesvete@vzgz.hr",
+        "web": "http://www.dvd-sesvete.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 16.116435522000074,
+        "y": 45.83036682100004
+      },
+      {
+        "naziv": "DVD Sesvetska Selnica",
+        "adresa": "Selnička ulica 69, Sesvete",
+        "telefon": "01 2005 010",
+        "fax": null,
+        "email": "sesvetska-selnica@vzgz.hr",
+        "web": "http://www.vzgz.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 16.13401274200004,
+        "y": 45.816624441000044
+      },
+      {
+        "naziv": "DVD Sesvetski Kraljevec",
+        "adresa": "Željeznička ulica 13, Sesvete",
+        "telefon": "01 2046 569",
+        "fax": null,
+        "email": "sesvetski-kraljevec@vzgz.hr",
+        "web": "http://www.vzgz.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 16.17409923500003,
+        "y": 45.81428388100005
+      },
+      {
+        "naziv": "DVD Šašinovec",
+        "adresa": "Ulica Ivana Granđe 75, Šašinovec",
+        "telefon": "01 2056 560",
+        "fax": null,
+        "email": "sasinovec@vzgz.hr",
+        "web": "http://www.vzgz.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 16.16537057200003,
+        "y": 45.850004934000026
+      },
+      {
+        "naziv": "DVD Vugrovec",
+        "adresa": "Ulica Augusta Šenoe 49, Vugrovec",
+        "telefon": "01 2045 136",
+        "fax": null,
+        "email": "vugrovec-donji@vzgz.hr",
+        "web": "http://www.vzgz.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 16.10887428500007,
+        "y": 45.88052397900003
+      }
+    ]
+  },
+  {
+    "grad_cetv": "Stenjevec",
+    "vatr_postaja": [
+      {
+        "naziv": "DVD Zapad (Vrapče Jug)",
+        "adresa": "Medarska ulica 80",
+        "telefon": "01 3886 089",
+        "fax": null,
+        "email": "zapad@vzgz.hr",
+        "web": "http://www.vzgz.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 15.910790772000041,
+        "y": 45.807560487000046
+      },
+      {
+        "naziv": "Vatrogasna postaja Jankomir",
+        "adresa": "Jankomir 2",
+        "telefon": "01 4896 130",
+        "fax": null,
+        "email": "postaja.jankomir@vatrogasci-zagreb.hr",
+        "web": "https://vatrogasci.zagreb.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Javna vatrogasna postrojba Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 15.878744781000023,
+        "y": 45.810774421000076
+      }
+    ]
+  },
+  {
+    "grad_cetv": "Trešnjevka - jug",
+    "vatr_postaja": [
+      {
+        "naziv": "DVD Jarun",
+        "adresa": "Ulica don Petra Šimića 2",
+        "telefon": "01 3832 356",
+        "fax": null,
+        "email": "jarun@vzgz.hr",
+        "web": "http://www.vzgz.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 15.927941951000037,
+        "y": 45.78694393100005
+      },
+      {
+        "naziv": "DVD Prečko",
+        "adresa": "Jarnovićeva ulica 19",
+        "telefon": "01 3865 010",
+        "fax": null,
+        "email": "precko@vzgz.hr",
+        "web": "www.dvdprecko.hr",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 15.898050732000058,
+        "y": 45.791684909000026
+      },
+      {
+        "naziv": "Vatrogasna zajednica Grada Zagreba",
+        "adresa": "Našička ulica 14",
+        "telefon": "01 4628 720",
+        "fax": "01 467 7969",
+        "email": "vzgz@vzgz.hr",
+        "web": "http://www.vzgz.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Javna vatrogasna postrojba Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 15.93214598700007,
+        "y": 45.79108184200004
+      }
+    ]
+  },
+  {
+    "grad_cetv": "Trešnjevka - sjever",
+    "vatr_postaja": [
+      {
+        "naziv": "DVD Trešnjevka",
+        "adresa": "Selska cesta 116",
+        "telefon": "01 3634 052",
+        "fax": null,
+        "email": "tresnjevka@vzgz.hr",
+        "web": "http://www.dvdtresnjevka.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 15.942999457000042,
+        "y": 45.797913537000056
+      }
+    ]
+  },
+  {
+    "grad_cetv": "Trnje",
+    "vatr_postaja": [
+      {
+        "naziv": "DVD Trnje",
+        "adresa": "Ulica Pere Budmanija 9",
+        "telefon": "01 6184 524",
+        "fax": null,
+        "email": "trnje@vzgz.hr",
+        "web": "https://dvdtrnje.hr/",
+        "nadlezan": "Ministarstvo unutarnjih poslova",
+        "izvor": "Vatrogasna zajednica Grada Zagreba",
+        "izradio": "Gradski ured za gospodarstvo, ekološku održivost i strategijsko planiranje",
+        "x": 16.000656899000035,
+        "y": 45.80222762100004
+      }
+    ]
+  }
 ]

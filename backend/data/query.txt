@@ -1,0 +1,21 @@
+SELECT
+        gc.naziv AS grad_cetv,
+        vd.naziv AS naziv,
+        vd.adresa,
+        vd.telefon,
+        vd.fax,
+        vd.email,
+        vd.web,
+        vd.nadlezan,
+        vd.izvor,
+        vd.izradio,
+        vd.x,
+        vd.y
+    FROM 
+        gradskaCetvrt gc
+    LEFT JOIN 
+        vatrogasnaPostaja vd 
+    ON 
+        gc.id = vd.gradskaCetvrtId
+    ORDER BY 
+        gc.naziv, vd.naziv;

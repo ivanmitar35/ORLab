@@ -1,0 +1,89 @@
+{
+  "$id": "localhost:3000/data/schema.json",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Geoportal Vatrogasci Data Schema",
+  "description": "Shema za skup podataka vatrogasnih postaja i povezanih administrativnih informacija po gradskim četvrtima",
+  "type": "array",
+  "items": {
+    "title": "Veza gradske četvrti i vatrogasnih postaja",
+    "description": "Objekt koji predstavlja gradsku četvrt s pripadajućim vatrogasnim domovima",
+    "type": "object",
+    "properties": {
+      "grad_cetv": {
+        "description": "Naziv gradske četvrti",
+        "type": "string"
+      },
+      "vatr_postaja": {
+        "description": "Popis vatrogasnih postaja unutar gradske četvrti",
+        "type": "array",
+        "items": {
+          "title": "Vatrogasna postaja",
+          "description": "Objekt koji predstavlja vatrogasnu postaju",
+          "type": "object",
+          "properties": {
+            "naziv": {
+              "description": "Ime vatrogasne postaje",
+              "type": "string"
+            },
+            "adresa": {
+              "description": "Adresa vatrogasne postaje",
+              "type": "string"
+            },
+            "telefon": {
+              "description": "Telefonski broj vatrogasne postaje",
+              "type": ["string", "null"]
+            },
+            "fax": {
+              "description": "Fax broj vatrogasne postaje",
+              "type": ["string", "null"]
+            },
+            "email": {
+              "format": "email",
+              "description": "Email adresa vatrogasne postaje",
+              "type": "string"
+            },
+            "web": {
+              "format": "uri",
+              "description": "Web stranica vatrogasne postaje",
+              "type": "string"
+            },
+            "nadlezan": {
+              "description": "Upravno tijelo vatrogasne postaje",
+              "type": "string"
+            },
+            "izvor": {
+              "description": "Izvor informacije",
+              "type": "string"
+            },
+            "izradio": {
+              "description": "Kreator podatka",
+              "type": "string"
+            },
+            "x": {
+              "description": "Geografska x koordinata",
+              "type": "number"
+            },
+            "y": {
+              "description": "Geografska y koordinata",
+              "type": "number"
+            }
+          },
+          "required": [
+            "naziv",
+            "adresa",
+            "telefon",
+            "fax",
+            "email",
+            "web",
+            "nadlezan",
+            "izvor",
+            "izradio",
+            "x",
+            "y"
+          ]
+        }
+      }
+    },
+    "required": ["grad_cetv", "vatr_postaja"]
+  }
+}

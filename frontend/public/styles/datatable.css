@@ -1,0 +1,29 @@
+tfoot input {
+  width: 100%;
+  padding: 3px;
+  box-sizing: border-box;
+}
+
+#downloadLinks {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 30px;
+}
+
+#downloadLinks button {
+  height: 40px;
+  width: 120px;
+  background-color: rgb(144, 210, 232);
+  border-radius: 10px;
+  border: none;
+}
+
+#downloadLinks button:hover {
+  background-color: rgb(178, 210, 221);
+  cursor: pointer;
+}
+
+#downloadLinks button:focus {
+  background-color: rgb(114, 158, 173);
+}

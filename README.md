@@ -8,19 +8,20 @@ Upravljanje bazom podataka: PostgreSQL
 
 ## Atributi
 
-| Naziv          |                   Opis                   | Tip     |
-| -------------- | :--------------------------------------: | ------- |
-| Gradska_cetvrt | gradska četvrt u kojoj se postaja nalazi | text    |
-| X              |               x koordinata               | decimal |
-| Y              |               y koordinata               | decimal |
-| Naziv          |         naziv vatrogasne postaje         | text    |
-| Adresa         |        adresa vatrogasne postaje         | text    |
-| Telefon        |              broj telefona               | text    |
-| Fax            |                broj fax-a                | text    |
-| Email          |                  email                   | text    |
-| Web            |       adresa web-stranice postaje        | text    |
-| Izvor          |       izvor informacija o postaji        | text    |
-| Izradio        |           tko je unio podatak            | text    |
+| Naziv     |                   Opis                   | Tip     |
+| --------- | :--------------------------------------: | ------- |
+| grad_cetv | gradska četvrt u kojoj se postaja nalazi | text    |
+| naziv     |         naziv vatrogasne postaje         | text    |
+| adresa    |        adresa vatrogasne postaje         | text    |
+| telefon   |              broj telefona               | text    |
+| fax       |                broj fax-a                | text    |
+| email     |                  email                   | text    |
+| web       |       adresa web-stranice postaje        | text    |
+| ndlezan   |     nadzorno tijelo ili ministarstvo     | text    |
+| izvor     |       izvor informacija o postaji        | text    |
+| izradio   |           tko je unio podatak            | text    |
+| x         |               x koordinata               | decimal |
+| y         |               y koordinata               | decimal |
 
 \
 Zadnja izmjena 6. veljače 2024, 14:46 (UTC+01:00)  
@@ -30,4 +31,4 @@ Licenca podataka:
 Otvorena dozvola (OD)  
 <http://data.gov.hr/otvorena-dozvola>
 
-Ključne riječi: vatrogasci, vatrogasna, postaja, zagreb, lokacije, vatrogasno, društvo
+Ključne riječi: vatrogasci, vatrogasna, postaja, zagreb, lokacije, vatrogasno, društvo, otvoreni, podaci

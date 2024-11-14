@@ -1,0 +1,33 @@
+body {
+  font-size: larger;
+}
+
+#downloadLinks {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 30px;
+}
+
+#datatable {
+  font-size: x-large;
+}
+
+table {
+  border: 1px solid;
+  border-collapse: collapse;
+}
+
+table th {
+  border: 1px solid;
+  padding: 4px;
+}
+
+table td {
+  border: 1px solid;
+  padding: 4px;
+}
+
+#jsonSchema {
+  font-size: medium;
+}

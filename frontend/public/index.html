@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Geolokacije vatrogasaca grada Zagreba</title>
+    <meta
+      description="Geolokacije vatrogasaca grada Zagreba"
+      keywords="vatrogasci, vatrogasna, postaja, zagreb, lokacije, vatrogasno, društvo"
+      author="Ivan Mitar"
+    />
+    <link rel="stylesheet" href="/styles/index.css" />
+    <link rel="shortcut icon" href="/images/fire.png" />
+  </head>
+
+  <body>
+    <h1>Geolokacije vatrogasaca grada Zagreba</h1>
+
+    <div id="downloadLinks">
+      <p>Preuzimanje podataka u formatu:</p>
+      <a href="/data/Geoportal_vatrogasci.csv" download="Geoportal_vatrogasci.csv">CSV</a>
+      <a href="/data/Geoportal_vatrogasci.json" download="Geoportal_vatrogasci.json">JSON</a>
+    </div>
+
+
+    <a id="datatable" href="/datatable">Tablica sa svim podacima</a>
+
+    <p>
+      Autor: Ivan Mitar<br />
+      Verzija skupa podataka: 1.0<br />
+      Jezik: hrvatski<br />
+      Format: CSV, JSON<br />
+      Upravljanje bazom podataka: PostgreSQL
+    </p>
+    <h2>Atributi</h2>
+    <table>
+      <tr>
+        <th>Naziv</th>
+        <th>Opis</th>
+        <th>Tip</th>
+      </tr>
+      <tr>
+        <td>grad_cetv</td>
+        <td>gradska četvrt u kojoj se postaja nalazi</td>
+        <td>text</td>
+      </tr>
+      <tr>
+        <td>naziv</td>
+        <td>naziv vatrogasne postaje</td>
+        <td>text</td>
+      </tr>
+      <tr>
+        <td>adresa</td>
+        <td>adresa vatrogasne postaje</td>
+        <td>text</td>
+      </tr>
+      <tr>
+        <td>telefon</td>
+        <td>broj telefona</td>
+        <td>text</td>
+      </tr>
+      <tr>
+        <td>fax</td>
+        <td>broj fax-a</td>
+        <td>text</td>
+      </tr>
+      <tr>
+        <td>email</td>
+        <td>email adresa</td>
+        <td>text</td>
+      </tr>
+      <tr>
+        <td>web</td>
+        <td>web-stranica postaje</td>
+        <td>text</td>
+      </tr>
+      <tr>
+        <td>nadlezan</td>
+        <td>nadzorno tijelo ili ministarstvo</td>
+        <td>text</td>
+      </tr>
+      <tr>
+        <td>izvor</td>
+        <td>izvor informacija o postaji</td>
+        <td>text</td>
+      </tr>
+      <tr>
+        <td>izradio</td>
+        <td>tko je unio podatak</td>
+        <td>text</td>
+      </tr>
+      <tr>
+        <td>x</td>
+        <td>x koordinata</td>
+        <td>decimal</td>
+      </tr>
+      <tr>
+        <td>y</td>
+        <td>y koordinata</td>
+        <td>decimal</td>
+      </tr>
+    </table>
+
+    <div>
+      <a id="jsonSchema" href="/data/schema.json">JSON schema</a>
+    </div>
+  </body>
+</html>
